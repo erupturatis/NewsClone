@@ -1,0 +1,50 @@
+.stireFlexboxMare{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 6rem;
+}
+.stireTitle{
+    font-size: 2.5rem;
+    font-weight: 600;
+    color:black;
+}
+.stireFlexBasic{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+.stireFlexTot{
+    display: flex;
+    justify-content: center;
+    width: 50vw;
+}
+.stireImage{
+    width: 55rem;
+}
+.stireImage2{
+    width: 15rem;
+}
+.stiredate{
+    font-size: 1.4rem;
+    font-weight: 650;
+}
+.stireArticol{
+    font-size: 1.5rem;
+    font-weight: 500;
+    color:black;
+    margin-top: 3rem;
+}
+.stireHigh{
+    font-size: 1.6rem;
+    font-weight: 700;
+    color:black;
+    margin-top: 1rem;
+}
+.stireImgdesc{
+    font-size: 1rem;
+    font-weight: 500;
+    color:rgb(75, 75, 75);
+  
+}

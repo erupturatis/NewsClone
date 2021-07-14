@@ -1,0 +1,36 @@
+.PSflexbox{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    width: 80vw;
+    height: 20rem;
+    border: 0px solid rgb(42, 44, 185);
+    background-color: rgb(255, 255, 255);
+    margin-top: 4rem;
+    margin-left: 4rem;
+
+}
+.PSimg{
+    width: 26rem;
+}
+.PSscrisI{
+    margin-left: 2rem;
+    margin-right: 3rem;
+}
+.PSTitle{
+
+    font-size: 2rem;
+    font-weight: 800;
+}
+.PSArti{
+
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.PSbara{
+    margin-top: 2rem;
+    margin-left: 2rem;
+    background-color: rgb(44, 44, 44);
+    height: 1px;
+    width: 80vw;
+}
